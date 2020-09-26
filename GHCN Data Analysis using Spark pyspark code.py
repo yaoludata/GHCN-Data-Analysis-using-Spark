@@ -1,5 +1,3 @@
-# DATA420-19S2 Assignment 1
-
 # Imports
 
 from pyspark import SparkContext, SparkConf

@@ -1,5 +1,3 @@
-# DATA420-19S2 Assignment 1
-
 # Processing
 # Q1
 # (a)
